@@ -1,0 +1,10 @@
+D:\C#\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe.config
+D:\C#\Genetic Algorithm\bin\Debug\Genetic Algorithm.exe
+D:\C#\Genetic Algorithm\bin\Debug\Genetic Algorithm.pdb
+D:\C#\Genetic Algorithm\obj\Debug\Genetic Algorithm.csprojAssemblyReference.cache
+D:\C#\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Form1.resources
+D:\C#\Genetic Algorithm\obj\Debug\Genetic_Algorithm.Properties.Resources.resources
+D:\C#\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.GenerateResource.cache
+D:\C#\Genetic Algorithm\obj\Debug\Genetic Algorithm.csproj.CoreCompileInputs.cache
+D:\C#\Genetic Algorithm\obj\Debug\Genetic Algorithm.exe
+D:\C#\Genetic Algorithm\obj\Debug\Genetic Algorithm.pdb
